@@ -13,7 +13,7 @@ const profile = {
       icon: "./Instagram Icon.png",
     },
     {
-      url: "mailto:+8801632831160",
+      url: "tel:+8801632831160",
       media: "WhatsApp",
       icon: "./WhatsApp Icon.png",
     },
